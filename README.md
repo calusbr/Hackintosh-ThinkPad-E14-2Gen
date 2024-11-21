@@ -22,9 +22,9 @@
 | **SSD Controller**  | **USB 3.1 Ports** | **Hackintool** |
 |<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_8.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_9.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_10.png?raw=true"/>|
 
-# ⚙️ **Hardware**
+# ⚙️ <img src="https://img.shields.io/badge/HARDWARE-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 
-<img src="https://github.com/educabox/educabox/blob/main/imagens/00%20-%20PROCESSADORES/S905X3.png?raw=true" align="right" alt="" width="120" height="120">
+<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/logo_thinkpad.png?raw=true" align="right" alt="" width="120" height="120">
 
 |Summary | Details|
 ---------|:--
@@ -42,13 +42,13 @@ SSD| KBG40ZNT256G TOSHIBA 256GB
 USB | 3.1 AppleUSBXHCIPCI
 
 <p align="center">
-<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://img.shields.io/badge/Download Config.plist-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
 </p>
 
 # 🧰 **ACPI**
 
 <p align="center">
-<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/ACPI"><img src="https://img.shields.io/badge/Download ACPI-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/ACPI"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_ssdt.png?raw=true&image_size=auto"/>
 </p>
 
 Order | Summary | Details
@@ -67,7 +67,9 @@ All necessary SSDTs are covered in this section. If necessary, follow the tutori
 
 # 💾 **Kexts**
 
+<p align="center">
 <a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/Kexts"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_kexts.png?raw=true&image_size=auto"/>
+</p>
 
 Order |Summary | Version| Details
 :---:|---------|:--:| -
@@ -105,7 +107,9 @@ Order |Summary | Version| Details
 
 # 💾 **Drives**
 
+<p align="center">
 <a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/Drivers"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_drivers.png?raw=true&image_size=auto"/>
+</p>
 
 Order | Summary | Details
 :--:|------| ----
