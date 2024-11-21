@@ -42,6 +42,10 @@ SSD| KBG40ZNT256G TOSHIBA 256GB
 USB | 3.1 AppleUSBXHCIPCI
 
 <p align="center">
+<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/logo_thinkpad.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/cpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/video.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/wifi.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/ethernet.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/audio.png?raw=true" align="center" alt="" width="80" height="80">
+</p>
+
+<p align="center">
 <a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
 </p>
 
