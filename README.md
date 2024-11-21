@@ -12,9 +12,10 @@
 
 |Summary | Details|
 ---------|:--
-S.O | MacOs Sequoia 15.1
+S.O | [MacOs Sequoia 15.1](https://www.apple.com/br/macos/macos-sequoia/)
 SMBios | MacBook Pro 16,3
-Laptop | Lenovo ThinkPad E14 Gen2 
+OpenCore | [1.0.2](https://github.com/acidanthera/OpenCorePkg/releases)
+Laptop | [Lenovo ThinkPad E14 Gen2](https://www.lenovo.com/br/pt/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen2-%28amd%29/22tpe14e4a2) 
 CPU | AMD Ryzen 5 4300 2.7 GHz
 GPU | AMD Radeon Graphics RX Renoir C4 1GB
 Memória | 8GB DDR4 3200 MHz
