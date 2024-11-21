@@ -69,9 +69,9 @@ Order |Summary | Version| Details
 16 | IntelBluetoothFirmware | [2.4.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 17 | BlueToolFixup | [2.6.9](https://github.com/acidanthera/BrcmPatchRAM)
 18 | IntelBTPatcher | [2.4.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-19 | itlwm | [2.3.0](https://github.com/OpenIntelWireless/itlwm) 
+19 | itlwm | [2.3.0](https://github.com/OpenIntelWireless/itlwm) | ✅ With [HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel WiFi Client for itlwm
 20 | RealtekRTL8111 | [2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X)
-21 | VoodooPS2Controller | [2.3.6](https://github.com/acidanthera/VoodooPS2) | ❌ Disable: VoodooInput 
+21 | VoodooPS2Controller | [2.3.6](https://github.com/acidanthera/VoodooPS2) | ❌ Disable Only: VoodooInput 
 22 | VoodooI2C | [2.9.1](https://github.com/VoodooI2C/VoodooI2C) | ✅ Enable Only: VoodooInput
 23 | VoodooI2CHID | [1.0.0](https://github.com/VoodooI2C/VoodooI2CHID)
 24 | VoodooI2CELAN | [1.0.0](https://github.com/VoodooI2C/VoodooI2CELAN)
