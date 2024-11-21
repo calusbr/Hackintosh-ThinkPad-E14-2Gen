@@ -24,9 +24,11 @@ Audio | Realtek ALC257
 SSD| KBG40ZNT256G TOSHIBA 256GB
 USB | 3.1 AppleUSBXHCIPCI
 
+<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
+
 # 🧰 **ACPI**
 
-<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_ssdt.png?raw=true&image_size=auto"/>
+<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/ACPI"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_ssdt.png?raw=true&image_size=auto"/>
 
 Order | Summary | Details
 :--:|------| ----
@@ -43,6 +45,8 @@ Order | Summary | Details
 All necessary SSDTs are covered in this section. If necessary, follow the tutorial again to create your own SSDTs: [Link](https://dortania.github.io/Getting-Started-With-ACPI/Manual/dump.html) 
 
 # 💾 **Kexts**
+
+<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/Kexts"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_kexts.png?raw=true&image_size=auto"/>
 
 Order |Summary | Version| Details
 :---:|---------|:--:| -
@@ -80,7 +84,7 @@ Order |Summary | Version| Details
 
 # 💾 **Drives**
 
-<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_drivers.png?raw=true&image_size=auto"/>
+<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/Drivers"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_drivers.png?raw=true&image_size=auto"/>
 
 Order | Summary | Details
 :--:|------| ----
