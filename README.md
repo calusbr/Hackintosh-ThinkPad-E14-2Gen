@@ -41,11 +41,15 @@ Audio | Realtek ALC257
 SSD| KBG40ZNT256G TOSHIBA 256GB
 USB | 3.1 AppleUSBXHCIPCI
 
-<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
+<p align="center">
+<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://img.shields.io/badge/Download Config.plist-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+</p>
 
 # 🧰 **ACPI**
 
-<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/ACPI"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_ssdt.png?raw=true&image_size=auto"/>
+<p align="center">
+<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/ACPI"><img src="https://img.shields.io/badge/Download ACPI-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+</p>
 
 Order | Summary | Details
 :--:|------| ----
