@@ -1,10 +1,26 @@
 ![GitHub followers](https://img.shields.io/github/followers/calusbr?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/calusbr?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=calusbr.repoName)  <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social">
-# <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> Hackintosh ThinkPad E14 2Gen
+# <img src="https://img.shields.io/badge/Hackintosh%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> Hackintosh ThinkPad E14 2Gen
 
 <p align="center">
 <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_1.png?raw=true" alt="Size Limit CLI" width="1280">
-<img src="https://img.shields.io/badge/Apple-MacBook_PRO_16,3_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_PRO_16,3_2020-999999?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Sequoia 15.1-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 </p>
+
+| ThinkPad E14 2Gen   | Layout |
+| ----------- | ----------- |
+|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_14.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_13.png?raw=true"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ScreenShots-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+</p>
+
+| System Information   | SMBios | Graphics |
+| :-----------: | :-----------: | :-----------: |
+|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_2.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_3.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_4.png?raw=true"/>|
+| **Wifi**  | **Bluetooth** | **Audio** |
+|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_5.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_6.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_7.png?raw=true"/>|
+| **SSD Controller**  | **USB 3.1 Ports** | **Hackintool** |
+|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_8.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_9.png?raw=true"/>|<img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/screenshots/hackintosh_thinkpad_e14_2gen_10.png?raw=true"/>|
 
 # ⚙️ **Hardware**
 
