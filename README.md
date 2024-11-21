@@ -49,7 +49,7 @@ USB | 3.1 AppleUSBXHCIPCI
 <a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
 </p>
 
-# 🧰 **ACPI**
+# 🧰 <img src="https://img.shields.io/badge/ACPI-SSDT-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 
 <p align="center">
 <a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/ACPI"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_ssdt.png?raw=true&image_size=auto"/>
@@ -69,7 +69,12 @@ Order | Summary | Details
 
 All necessary SSDTs are covered in this section. If necessary, follow the tutorial again to create your own SSDTs: [Link](https://dortania.github.io/Getting-Started-With-ACPI/Manual/dump.html) 
 
-# 💾 **Kexts**
+# 💾 <img src="https://img.shields.io/badge/HACKINTOSH-KEXTS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+
+|Boot | Details|
+---------|:--
+args (before-installation)| -v keepsyms=1 debug=0x100 alcid=11
+args (after-installation)| keepsyms=1 alcid=11
 
 <p align="center">
 <a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/Kexts"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_kexts.png?raw=true&image_size=auto"/>
@@ -109,7 +114,7 @@ Order |Summary | Version| Details
 30 | SMCRadeonSensors | [2.3.0](https://github.com/ChefKissInc/SMCRadeonSensors)
 31 | HibernationFixup | [1.5.2](https://github.com/acidanthera/HibernationFixup)
 
-# 💾 **Drives**
+# 💾 <img src="https://img.shields.io/badge/HACKINTOSH-DRIVERS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 
 <p align="center">
 <a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/tree/main/EFI/OC/Drivers"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_drivers.png?raw=true&image_size=auto"/>
@@ -124,3 +129,18 @@ Order | Summary | Details
 5 | NvmExpressDxe.efi | Useful for users with limited free space within the DXE Driver Volume
 6 | AudioDxe.efi | Enable audio startup
 7 | UsbMouseDxe.efi | Provides generic USB properties
+
+# 🧩 <img src="https://img.shields.io/badge/HACKINTOSH-CREDITS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+
+
+Credits | Link
+------| ----
+OpenCore | https://github.com/luchina-gabriel
+Chefkissinc | https://chefkissinc.github.io/
+Acidanthera | https://github.com/acidanthera/
+Rehabman | https://github.com/rehabman
+Corpnewt | https://github.com/corpnewt
+Reddit | https://www.reddit.com/r/hackintosh/
+Gabriel Luchina | https://github.com/luchina-gabriel
+AniKulkarn | https://github.com/AniKulkarn/Hackintosh-ThinkPad-E14
+Manangadwal | https://github.com/manangadwal/hackintosh-thinkpad-e14-gen2
