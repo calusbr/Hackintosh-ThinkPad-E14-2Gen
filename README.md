@@ -40,6 +40,7 @@ Ethernet | Realtek RTL8111
 Audio | Realtek ALC257
 SSD| KBG40ZNT256G TOSHIBA 256GB
 USB | 3.1 AppleUSBXHCIPCI
+HWINFO | [System Information](https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/HWiNFO%20-%20THINKPAD-E13-2GEN.HTM)
 
 <p align="center">
 <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/logo_thinkpad.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/cpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/video.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/wifi.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/ethernet.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/audio.png?raw=true" align="center" alt="" width="80" height="80">
