@@ -47,7 +47,7 @@ HWINFO | [System Information](https://github.com/calusbr/Hackintosh-ThinkPad-E14
 </p>
 
 <p align="center">
-<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
+<a href="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/EFI/OC/Config.plist"><img src="https://github.com/calusbr/Hackintosh-ThinkPad-E14-2Gen/blob/main/icons/download_config.png?raw=true&image_size=auto"/>
 </p>
 
 # 🧰 <img src="https://img.shields.io/badge/ACPI-SSDT-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
